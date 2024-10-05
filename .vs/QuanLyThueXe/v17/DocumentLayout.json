@@ -1,0 +1,546 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QuanLyXeAspMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\views\\adminrental\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\views\\adminrental\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|d:\\quanlyxeaspmvc\\quanlythuexe\\controllers\\admin\\adminrentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\controllers\\admin\\adminrentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\views\\adminuser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\views\\adminuser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|d:\\quanlyxeaspmvc\\quanlythuexe\\controllers\\admin\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\controllers\\admin\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\daos\\rentaldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\daos\\rentaldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\daos\\roledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\daos\\roledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\daos\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\daos\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|d:\\quanlyxeaspmvc\\quanlythuexe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\controllers\\admin\\adminlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\controllers\\admin\\adminlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\views\\adminhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\views\\adminhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\controllers\\admin\\adminhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\controllers\\admin\\adminhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\views\\publichome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\views\\publichome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\controllers\\public\\publicauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\controllers\\public\\publicauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|d:\\quanlyxeaspmvc\\quanlythuexe\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\views\\adminmodules\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\views\\adminmodules\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\views\\adminlogin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\views\\adminlogin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\controllers\\public\\publiccarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\controllers\\public\\publiccarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\controllers\\public\\publichomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\controllers\\public\\publichomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\controllers\\public\\publicmodulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\controllers\\public\\publicmodulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\views\\publicmodules\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\views\\publicmodules\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\views\\publicmodules\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\views\\publicmodules\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\controllers\\public\\publicrentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\controllers\\public\\publicrentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\models\\quanlythuexecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\models\\quanlythuexecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\views\\publiccar\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\views\\publiccar\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\views\\publiccar\\listxemay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\views\\publiccar\\listxemay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\views\\publiccar\\listoto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\views\\publiccar\\listoto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\views\\publiccar\\detailcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\views\\publiccar\\detailcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\views\\shared\\_layoutpublic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\views\\shared\\_layoutpublic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|D:\\QuanLyXeAspMVC\\quanlythuexe\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D6C872DF-C360-46AC-89A9-AED7E0760706}|QuanLyThueXe\\Xe.csproj|solutionrelative:quanlythuexe\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PublicAuthenticationController.cs",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Controllers\\Public\\PublicAuthenticationController.cs",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Controllers\\Public\\PublicAuthenticationController.cs",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Controllers\\Public\\PublicAuthenticationController.cs",
+              "RelativeToolTip": "QuanLyThueXe\\Controllers\\Public\\PublicAuthenticationController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T05:06:50.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\AdminHome\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Views\\AdminHome\\Index.cshtml",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\AdminHome\\Index.cshtml",
+              "RelativeToolTip": "QuanLyThueXe\\Views\\AdminHome\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T05:08:25.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\PublicHome\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Views\\PublicHome\\Index.cshtml",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\PublicHome\\Index.cshtml",
+              "RelativeToolTip": "QuanLyThueXe\\Views\\PublicHome\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAHIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T05:51:41.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminHomeController.cs",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Controllers\\Admin\\AdminHomeController.cs",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Controllers\\Admin\\AdminHomeController.cs",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Controllers\\Admin\\AdminHomeController.cs",
+              "RelativeToolTip": "QuanLyThueXe\\Controllers\\Admin\\AdminHomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:31:52.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDao.cs",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Daos\\UserDao.cs",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Daos\\UserDao.cs",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Daos\\UserDao.cs",
+              "RelativeToolTip": "QuanLyThueXe\\Daos\\UserDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T03:53:33.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoleDao.cs",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Daos\\RoleDao.cs",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Daos\\RoleDao.cs",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Daos\\RoleDao.cs",
+              "RelativeToolTip": "QuanLyThueXe\\Daos\\RoleDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T03:53:29.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RentalDao.cs",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Daos\\RentalDao.cs",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Daos\\RentalDao.cs",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Daos\\RentalDao.cs",
+              "RelativeToolTip": "QuanLyThueXe\\Daos\\RentalDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T03:53:26.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\AdminRental\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Views\\AdminRental\\Index.cshtml",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\AdminRental\\Index.cshtml",
+              "RelativeToolTip": "QuanLyThueXe\\Views\\AdminRental\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T04:03:59.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminUserController.cs",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Controllers\\Admin\\AdminUserController.cs",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Controllers\\Admin\\AdminUserController.cs",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Controllers\\Admin\\AdminUserController.cs",
+              "RelativeToolTip": "QuanLyThueXe\\Controllers\\Admin\\AdminUserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:40:23.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "user.cs",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Models\\user.cs",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Models\\user.cs",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Models\\user.cs",
+              "RelativeToolTip": "QuanLyThueXe\\Models\\user.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:40:34.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminRentalController.cs",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Controllers\\Admin\\AdminRentalController.cs",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Controllers\\Admin\\AdminRentalController.cs",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Controllers\\Admin\\AdminRentalController.cs",
+              "RelativeToolTip": "QuanLyThueXe\\Controllers\\Admin\\AdminRentalController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:41:35.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PublicModulesController.cs",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Controllers\\Public\\PublicModulesController.cs",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Controllers\\Public\\PublicModulesController.cs",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Controllers\\Public\\PublicModulesController.cs",
+              "RelativeToolTip": "QuanLyThueXe\\Controllers\\Public\\PublicModulesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T05:07:33.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\AdminUser\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Views\\AdminUser\\Index.cshtml",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\AdminUser\\Index.cshtml",
+              "RelativeToolTip": "QuanLyThueXe\\Views\\AdminUser\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T04:00:54.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Web.config",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Web.config",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Web.config",
+              "RelativeToolTip": "QuanLyThueXe\\Web.config",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-20T03:41:26.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PublicCarController.cs",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Controllers\\Public\\PublicCarController.cs",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Controllers\\Public\\PublicCarController.cs",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Controllers\\Public\\PublicCarController.cs",
+              "RelativeToolTip": "QuanLyThueXe\\Controllers\\Public\\PublicCarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:57:52.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminLoginController.cs",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Controllers\\Admin\\AdminLoginController.cs",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Controllers\\Admin\\AdminLoginController.cs",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Controllers\\Admin\\AdminLoginController.cs",
+              "RelativeToolTip": "QuanLyThueXe\\Controllers\\Admin\\AdminLoginController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:31:55.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\PublicModules\\Header.cshtml",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Views\\PublicModules\\Header.cshtml",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\PublicModules\\Header.cshtml",
+              "RelativeToolTip": "QuanLyThueXe\\Views\\PublicModules\\Header.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T05:07:52.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\PublicModules\\Footer.cshtml",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Views\\PublicModules\\Footer.cshtml",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\PublicModules\\Footer.cshtml",
+              "RelativeToolTip": "QuanLyThueXe\\Views\\PublicModules\\Footer.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T03:41:28.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\AdminModules\\Header.cshtml",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Views\\AdminModules\\Header.cshtml",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\AdminModules\\Header.cshtml",
+              "RelativeToolTip": "QuanLyThueXe\\Views\\AdminModules\\Header.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T04:03:51.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\AdminLogin\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Views\\AdminLogin\\Index.cshtml",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\AdminLogin\\Index.cshtml",
+              "RelativeToolTip": "QuanLyThueXe\\Views\\AdminLogin\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T05:23:48.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PublicHomeController.cs",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Controllers\\Public\\PublicHomeController.cs",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Controllers\\Public\\PublicHomeController.cs",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Controllers\\Public\\PublicHomeController.cs",
+              "RelativeToolTip": "QuanLyThueXe\\Controllers\\Public\\PublicHomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T05:07:31.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "QuanLyThueXeContext.cs",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Models\\QuanLyThueXeContext.cs",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Models\\QuanLyThueXeContext.cs",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Models\\QuanLyThueXeContext.cs",
+              "RelativeToolTip": "QuanLyThueXe\\Models\\QuanLyThueXeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T05:10:57.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PublicRentalController.cs",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Controllers\\Public\\PublicRentalController.cs",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Controllers\\Public\\PublicRentalController.cs",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Controllers\\Public\\PublicRentalController.cs",
+              "RelativeToolTip": "QuanLyThueXe\\Controllers\\Public\\PublicRentalController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:53:10.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ListOto.cshtml",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\PublicCar\\ListOto.cshtml",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Views\\PublicCar\\ListOto.cshtml",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\PublicCar\\ListOto.cshtml",
+              "RelativeToolTip": "QuanLyThueXe\\Views\\PublicCar\\ListOto.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T05:13:44.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\PublicCar\\Search.cshtml",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Views\\PublicCar\\Search.cshtml",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\PublicCar\\Search.cshtml",
+              "RelativeToolTip": "QuanLyThueXe\\Views\\PublicCar\\Search.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAJwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T05:14:23.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ListXeMay.cshtml",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\PublicCar\\ListXeMay.cshtml",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Views\\PublicCar\\ListXeMay.cshtml",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\PublicCar\\ListXeMay.cshtml",
+              "RelativeToolTip": "QuanLyThueXe\\Views\\PublicCar\\ListXeMay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T05:14:14.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DetailCar.cshtml",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\PublicCar\\DetailCar.cshtml",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Views\\PublicCar\\DetailCar.cshtml",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\PublicCar\\DetailCar.cshtml",
+              "RelativeToolTip": "QuanLyThueXe\\Views\\PublicCar\\DetailCar.cshtml",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAIUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T03:58:16.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\packages.config",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\packages.config",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\packages.config",
+              "RelativeToolTip": "QuanLyThueXe\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-20T03:31:44.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Web.Release.config",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Web.Release.config",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Web.Release.config",
+              "RelativeToolTip": "QuanLyThueXe\\Web.Release.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-25T05:09:58.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Web.Debug.config",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Web.Debug.config",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Web.Debug.config",
+              "RelativeToolTip": "QuanLyThueXe\\Web.Debug.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-25T05:09:59.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_LayoutPublic.cshtml",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\Shared\\_LayoutPublic.cshtml",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Views\\Shared\\_LayoutPublic.cshtml",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\Shared\\_LayoutPublic.cshtml",
+              "RelativeToolTip": "QuanLyThueXe\\Views\\Shared\\_LayoutPublic.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T03:59:52.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\Web.config",
+              "RelativeDocumentMoniker": "QuanLyThueXe\\Views\\Web.config",
+              "ToolTip": "D:\\QuanLyXeAspMVC\\QuanLyThueXe\\Views\\Web.config",
+              "RelativeToolTip": "QuanLyThueXe\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-20T03:41:16.795Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

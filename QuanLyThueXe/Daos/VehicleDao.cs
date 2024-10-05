@@ -32,7 +32,7 @@ namespace QuanLyThueXe.Daos
 
         public List<vehicle> GetTop5Oto()
         {
-            return myDb.vehicles.Where(x => x.type_vehicle == "Xe ô tô").Take(3).ToList();
+            return myDb.vehicles.Where(x => x.type_vehicle == "Xe ô tô").Take(5).ToList();
         }
 
         public List<vehicle> GetOto(int page, int pagesize)
